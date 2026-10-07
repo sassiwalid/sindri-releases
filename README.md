@@ -24,7 +24,8 @@ in one click).
 - **Releases**: where each build stands, from processing to the App Store.
 - **Reminders**: notifications before certificates and profiles expire.
 
-To activate Pro, open Sindri › Activate and paste the license key from your receipt email.
+**[Buy Sindri Pro](https://walidsassi.lemonsqueezy.com/checkout/buy/1f725d03-3779-46a1-88d8-c0c7f8c62b81)**, then open
+Sindri › Activate and paste the license key from your receipt email.
 
 ## Privacy
 
