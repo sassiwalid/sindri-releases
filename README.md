@@ -1,8 +1,10 @@
 # Sindri
 
-A native macOS app for Apple platform developers. It reads what is already on your Mac (keychain certificates,
-provisioning profiles, Xcode installations) and what App Store Connect reports about your team's apps, and tells you
-what is wrong and what to do about it.
+The complete toolbox for iOS and macOS developers, in one native Mac app. Sindri reads what is already on your Mac
+(keychain certificates, provisioning profiles, Xcode installations) and what App Store Connect reports about your
+team's apps, and tells you what is wrong and what to do about it.
+
+**Website: [getsindri.app](https://getsindri.app)**
 
 This repository only hosts the signed and notarized builds.
 
@@ -11,14 +13,20 @@ This repository only hosts the signed and notarized builds.
 **[Download the latest version](https://github.com/sassiwalid/sindri-releases/releases/latest)**: open the DMG and
 drag Sindri to Applications.
 
-Requires macOS 15 or later.
+Requires macOS 15 or later, on Apple silicon or Intel.
 
-## Free and Pro
+## Pricing
+
+1. **Days 1 to 14:** every tool is unlocked, Pro included. The trial starts when you choose a Pro tool in the app,
+   not at install.
+2. **When the trial ends:** Signing and Certificates stay free, for good.
+3. **Whenever you want:** Sindri Pro unlocks everything for **€14.99, once**, with lifetime access, on up to
+   **3 Macs**. No subscription.
 
 **Free:** Signing (diagnose a project's signing) and Certificates (every signing certificate with its expiry, renewal
 in one click).
 
-**Sindri Pro**, a one-time purchase, unlocks:
+**Sindri Pro** adds:
 - **Xcodes**: install, switch and uninstall Xcode versions, simulator runtimes and disk usage.
 - **Swift Preview**: a SwiftUI view rendered next to its code, or a Swift program next to its output.
 - **SwiftUI Analyzer**: the view hierarchy as a graph, a performance score and the issues with their fix as a diff.
@@ -26,10 +34,8 @@ in one click).
 - **Releases**: where each build stands, from processing to the App Store.
 - **Reminders**: notifications before certificates and profiles expire.
 
-**[Buy Sindri Pro](https://walidsassi.lemonsqueezy.com/checkout/buy/1f725d03-3779-46a1-88d8-c0c7f8c62b81)**, then open
-Sindri › Activate and paste the license key from your receipt email.
-
-Every Pro tool can be tried free for 14 days from the app, with no account or card.
+**[Buy Sindri Pro, €14.99](https://walidsassi.lemonsqueezy.com/checkout/buy/1f725d03-3779-46a1-88d8-c0c7f8c62b81)**,
+then open Sindri › Activate and paste the license key from your receipt email. One license activates up to 3 Macs.
 
 ## Privacy
 
