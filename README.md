@@ -17,11 +17,10 @@ Requires macOS 15 or later, on Apple silicon or Intel.
 
 ## Pricing
 
-1. **Days 1 to 14:** every tool is unlocked, Pro included. The trial starts when you choose a Pro tool in the app,
+1. **Days 1 to 14:** try every feature, including Pro. The trial starts when you choose a Pro tool in the app,
    not at install.
-2. **When the trial ends:** Signing and Certificates stay free, for good.
-3. **Whenever you want:** Sindri Pro unlocks everything for **€14.99, once**, with lifetime access, on up to
-   **3 Macs**. No subscription.
+2. **After your trial:** Signing and Certificates stay free forever. No subscription starts and nothing is charged.
+3. **Whenever you're ready:** get Sindri Pro for **€14.99**, a one-time purchase, for up to **3 Macs**.
 
 **Free:** Signing (diagnose a project's signing) and Certificates (every signing certificate with its expiry, renewal
 in one click).
